@@ -3,4 +3,5 @@ Repo for DS class
 
 I am editing my readme for clarity
 $x^2$
+$y^2$
 
